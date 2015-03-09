@@ -1,0 +1,1 @@
+Simple boilerplate progect with jQuery, Bootstrap and RequireJS.
